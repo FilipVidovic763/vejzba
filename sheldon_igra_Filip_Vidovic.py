@@ -83,3 +83,5 @@ while igraj=='da':
 
     print('igrač1 ima {} bodova'.format(bodovi_igrac1))        
     print('igrač2 ima {} bodova'.format(bodovi_igrac2))
+    
+    return 0
